@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-community-listing-v1/static/css/main.74149bd2.chunk.css",
+    "main.js": "/my-community-listing-v1/static/js/main.d5d183ff.chunk.js",
+    "main.js.map": "/my-community-listing-v1/static/js/main.d5d183ff.chunk.js.map",
+    "runtime-main.js": "/my-community-listing-v1/static/js/runtime-main.8f3f9648.js",
+    "runtime-main.js.map": "/my-community-listing-v1/static/js/runtime-main.8f3f9648.js.map",
+    "static/js/2.aeedb394.chunk.js": "/my-community-listing-v1/static/js/2.aeedb394.chunk.js",
+    "static/js/2.aeedb394.chunk.js.map": "/my-community-listing-v1/static/js/2.aeedb394.chunk.js.map",
+    "index.html": "/my-community-listing-v1/index.html",
+    "precache-manifest.7710e53e2e1ace41b2030578e0199a86.js": "/my-community-listing-v1/precache-manifest.7710e53e2e1ace41b2030578e0199a86.js",
+    "service-worker.js": "/my-community-listing-v1/service-worker.js",
+    "static/css/main.74149bd2.chunk.css.map": "/my-community-listing-v1/static/css/main.74149bd2.chunk.css.map",
+    "static/js/2.aeedb394.chunk.js.LICENSE.txt": "/my-community-listing-v1/static/js/2.aeedb394.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f3f9648.js",
+    "static/js/2.aeedb394.chunk.js",
+    "static/css/main.74149bd2.chunk.css",
+    "static/js/main.d5d183ff.chunk.js"
+  ]
+}
