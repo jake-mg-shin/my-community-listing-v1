@@ -3,7 +3,7 @@
 >This is a result of my 24h coding test at a company.
 ***[See project](https://jake-mg-shin.github.io/my-community-listing-v1/)***.
 
-## About
+## Task
 - Using information from the API about ten communities and fifteen listings.
 - Showing image, name, and location of the communities alphabetically.
 - Displaying avg price of listings of a community and specifics.
